@@ -35,7 +35,9 @@ export function PageHead({
         content='width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover'
       />
 
-      <meta name='mobile-web-app-capable' content='yes' />
+      <meta name='google-site-verification' content='hwRTHV8SG4Ebe7TaQEFpzssakik8dLZLBADQ8u3Z6eA' />
+      <meta name="msvalidate.01" content="6FF621A0D0C94B49CC991CD625AA19BA" />
+      <meta name="naver-site-verification" content="8f16d3bcca32dece1961cab8953b298eca0ad8f6" />
       <meta name='apple-mobile-web-app-status-bar-style' content='black' />
 
       <meta
